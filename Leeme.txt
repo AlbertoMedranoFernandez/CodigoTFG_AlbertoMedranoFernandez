@@ -1,0 +1,43 @@
+En el proyecto hay dos carpetas, en las que se encuentran los siguientes archivos:
+
+
+
+----------------------------
+
+	CÓDIGO
+
+----------------------------
+
+
+- propuesta1 auto.py --> Archivo de Python que contiene el algoritmo de la propuesta 1 con calibración automática.
+
+- propuesta1 manual.py --> Archivo de Python que contiene el algoritmo de la propuesta 1 con calibración manual.
+
+- propuesta2 auto.py --> Archivo de Python que contiene el algoritmo de la propuesta 2 con calibración automática.
+
+- propuesta2 manual.py --> Archivo de Python que contiene el algoritmo de la propuesta 2 con calibración manual.
+
+- propuesta3 auto.py --> Archivo de Python que contiene el algoritmo de la propuesta 3 con calibración automática.
+
+- propuesta3 manual.py --> Archivo de Python que contiene el algoritmo de la propuesta 3 con calibración manual.
+
+
+
+
+-----------------------------
+
+	EXPERIMENTOS
+
+-----------------------------
+
+
+- Experimentos.xlsx --> Archivo Excel que contiene todos los resultados obtenidos por las tres propuestas.
+
+- Formato.xlsx --> Archivo Excel que contiene el formato de las tablas donde se guardan los resultados de los experimentos.
+
+- propuesta1 experimentos.py --> Archivo de Python que contiene el algoritmo de la propuesta 1 con calibración automática modificado para experimentos.
+
+- propuesta2 experimentos.py --> Archivo de Python que contiene el algoritmo de la propuesta 2 con calibración automática modificado para experimentos.
+
+- propuesta3 experimentos.py --> Archivo de Python que contiene el algoritmo de la propuesta 3 con calibración automática modificado para experimentos.
+
